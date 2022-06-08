@@ -1,2 +1,3 @@
 devops is combination of dev and ops
 devlopers are  devloping continously to updates
+developers and operation team works together for continous intergration 
