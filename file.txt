@@ -2,3 +2,6 @@ aws
 sql
 linux
 msbi
+devops 
+python
+
