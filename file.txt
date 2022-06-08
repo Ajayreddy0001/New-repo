@@ -1,0 +1,3 @@
+aws
+sql
+linux
